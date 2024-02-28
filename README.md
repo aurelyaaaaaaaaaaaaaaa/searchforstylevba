@@ -8,7 +8,7 @@
 5. The script adds all the paragraphs of that style to the table in the format below
 6. If ran again the script will exclude the already included paragraphs
 
-## For example for a table of reccomendataions
+## For example for a table of reccomendations
 | No. | Content | Status |
 |-----|---------|--------|
 | 1 | Rec 1 | Open |
